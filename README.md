@@ -1,6 +1,6 @@
 # JavaScript Projects
 
-Welcome to my JavaScript Projects repository! This collection features a variety of practice applications primarily built using JavaScript, HTML, and CSS. The focus of these projects is to enhance my skills in front-end development, specifically in creating CRUD applications, managing timers with `setInterval`, dynamically creating elements, and manipulating the DOM.
+Welcome to my JavaScript Projects repository! This collection features a variety of practice applications primarily built using JavaScript, HTML, and CSS. The focus of these projects is to enhance my skills in front-end development, specifically in creating CRUD applications, managing timers with `setInterval`, dynamically creating elements, manipulating the DOM, and working with local storage.
 
 ## Table of Contents
 
@@ -36,6 +36,7 @@ Through these projects, I aimed to:
 - Master CRUD operations in JavaScript applications.
 - Implement timers and intervals effectively using `setInterval`.
 - Dynamically create and manipulate DOM elements.
+- Work with local storage to save user preferences and data across sessions.
 - Enhance my overall understanding of front-end development practices.
 
 ## Technologies Used
