@@ -1,0 +1,50 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Books</title>
+    <link
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="container mt-5">
+      <h2>Add Book</h2>
+      <div class="form-group">
+        <input
+          type="text"
+          id="title"
+          class="form-control"
+          placeholder="Title"
+        />
+        <input
+          type="text"
+          id="author"
+          class="form-control mt-2"
+          placeholder="Author"
+        />
+        <input
+          type="text"
+          id="category"
+          class="form-control mt-2"
+          placeholder="Category"
+        />
+        <button class="btn btn-primary mt-2">Add Book</button>
+      </div>
+      <div class="form-group">
+        <input
+          type="text"
+          id="filterCategory"
+          class="form-control mt-2"
+          placeholder="Filter by Category"
+        />
+        <button class="btn btn-info mt-2">Filter Books</button>
+      </div>
+      <h2>Book List</h2>
+      <div id="bookList"></div>
+    </div>
+
+    <script src="./main.js"></script>
+  </body>
+</html>
