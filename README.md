@@ -25,7 +25,7 @@ This repository includes several projects that demonstrate my understanding of J
 
 - An application for adding and filtering books using constructors. It provides a learning experience in object-oriented programming and DOM manipulation.
 
-4. - **[Task_Manager](https://github.com/Klimentina2709/JavaScript-Projects/tree/Task_Manager)**: A task management application to add, complete, and delete tasks.
+4.  **[Task_Manager](https://github.com/Klimentina2709/JavaScript-Projects/tree/Task_Manager)**: A task management application to add, complete, and delete tasks.
 
 - A simple task management app that allows users to add tasks, mark them as completed, and delete them. It helps in understanding task tracking and DOM updates.
 
