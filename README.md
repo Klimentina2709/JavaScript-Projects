@@ -22,4 +22,4 @@ A basic Task Manager web application built with HTML, CSS, and JavaScript. This 
 
 ## Contact
 
-If you have any questions, feel free to contact me!
+If you have any questions, feel free to contact me.
